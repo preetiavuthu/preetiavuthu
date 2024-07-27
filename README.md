@@ -6,6 +6,7 @@
 - 📫 How to reach me ...throug mail :preetiavuthu@gmail.com
 - 😄 Pronouns:AVUTHU
 - ⚡ Fun fact: ...be positive
+- I am going to build a team with 10 members
 
 <!---
 preetiavuthu/preetiavuthu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
