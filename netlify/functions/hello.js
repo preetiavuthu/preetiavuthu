@@ -10,6 +10,6 @@ exports.handler = async event => {
     
     return {
         statusCode: 200,
-        body: `>>Hello World This  is Puja service details... `,
+        body: `>>Hello World This  is Puja service details.. `,
     }
 }
